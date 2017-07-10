@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+    <project id ="aa">
+        <script>/home/weblog/xujuan/aa/a1.sh</script>
+        <script>/home/weblog/xujuan/aa/a2.sh</script>
+        <script>/home/weblog/xujuan/aa/a3.sh</script>
+    </project>
+    <project id ="bb">
+        <script>/home/weblog/xujuan/bb/b1.sh</script>
+        <script>/home/weblog/xujuan/aa/a1.sh</script>
+        <script>/home/weblog/xujuan/cc/c1.sh</script>
+    </project>
+    <project id ="dd">
+        <script> D:/application/apache/dd/d1.txt</script>
+        <script> D:/application/apache/dd/d2.txt</script>
+    </project>
+</projects>
